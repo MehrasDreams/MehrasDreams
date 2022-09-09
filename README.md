@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My naem is Mehras Dreams python and django developer :)
+My name is Mehras Dreams python and django developer :)
 Languages and Tools:
 
 
